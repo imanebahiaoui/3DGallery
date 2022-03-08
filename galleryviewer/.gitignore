@@ -1,0 +1,4 @@
+# Python bytecode:
+.idea/
+*.py[co]
+static/
